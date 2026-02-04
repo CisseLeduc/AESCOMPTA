@@ -1,0 +1,10 @@
+{
+  "name": "AESCOMPT",
+  "short_name": "AESCOMPT",
+  "description": "Super-App de Gouvernance Commerciale IA pour l'Afrique de l'Ouest.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
